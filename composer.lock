@@ -491,16 +491,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.86.1",
+            "version": "3.86.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "217f783754b803b95eea220308ca7cf046ead832"
+                "reference": "50224232ac7a4e2a6fa4ebbe0281e5b7503acf76"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/217f783754b803b95eea220308ca7cf046ead832",
-                "reference": "217f783754b803b95eea220308ca7cf046ead832",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/50224232ac7a4e2a6fa4ebbe0281e5b7503acf76",
+                "reference": "50224232ac7a4e2a6fa4ebbe0281e5b7503acf76",
                 "shasum": ""
             },
             "require": {
@@ -570,7 +570,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2019-01-17T23:11:37+00:00"
+            "time": "2019-01-18T21:10:44+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -3213,16 +3213,16 @@
         },
         {
             "name": "dmstr/yii2-publication-module",
-            "version": "0.5.0-alpha64",
+            "version": "0.5.0-alpha65",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dmstr/yii2-publication-module.git",
-                "reference": "a2a3777c2c00171322e47fa5b747cfb0042479a5"
+                "reference": "0277bc40c0591cc951be77f5262e606fac9ff152"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dmstr/yii2-publication-module/zipball/a2a3777c2c00171322e47fa5b747cfb0042479a5",
-                "reference": "a2a3777c2c00171322e47fa5b747cfb0042479a5",
+                "url": "https://api.github.com/repos/dmstr/yii2-publication-module/zipball/0277bc40c0591cc951be77f5262e606fac9ff152",
+                "reference": "0277bc40c0591cc951be77f5262e606fac9ff152",
                 "shasum": ""
             },
             "require": {
@@ -3256,7 +3256,7 @@
                 "publication",
                 "yii2"
             ],
-            "time": "2019-01-18T09:06:57+00:00"
+            "time": "2019-01-21T06:55:36+00:00"
         },
         {
             "name": "dmstr/yii2-redirect-module",
@@ -6826,12 +6826,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2.git",
-                "reference": "3c091b802a03730c3591eae1d51cceebf88aadde"
+                "reference": "5544d31bb3b7b0959ef51f7c78c7e06c8f5b354f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2/zipball/3c091b802a03730c3591eae1d51cceebf88aadde",
-                "reference": "3c091b802a03730c3591eae1d51cceebf88aadde",
+                "url": "https://api.github.com/repos/yiisoft/yii2/zipball/5544d31bb3b7b0959ef51f7c78c7e06c8f5b354f",
+                "reference": "5544d31bb3b7b0959ef51f7c78c7e06c8f5b354f",
                 "shasum": ""
             },
             "require": {
@@ -6931,7 +6931,7 @@
                 "framework",
                 "yii2"
             ],
-            "time": "2019-01-18T11:06:08+00:00"
+            "time": "2019-01-21T12:21:47+00:00"
         },
         {
             "name": "yiisoft/yii2-httpclient",
